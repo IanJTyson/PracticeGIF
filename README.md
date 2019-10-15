@@ -1,4 +1,4 @@
-# PracticeGIF - Ian Tyson
+Ian Tyson
 
 <html>
 <body style="background-color:powderblue;">
